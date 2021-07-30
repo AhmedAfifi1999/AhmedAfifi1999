@@ -22,6 +22,7 @@ Listed below are my experience and skills:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=AhmedAfifi1999) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAfifi1999&style=flat-square&layout=compact&langs_count=8&theme=react) 
 <!--
 **AhmedAfifi1999/AhmedAfifi1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
