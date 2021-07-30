@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi👋
 
+ My name is Ahmed, and I am a Back-end web developer from Palestine with 3 years of experience in programming. The two major spheres of my interest and expertise are as follows:
+- Laravel+Angular JS web development
+- Preparing and dealing with servers
 <!--
 **AhmedAfifi1999/AhmedAfifi1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
