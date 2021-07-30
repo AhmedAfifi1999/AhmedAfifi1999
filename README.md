@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=AhmedAfifi1999.AhmedAfifi1999&style=flat-square)
+
