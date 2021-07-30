@@ -1,6 +1,6 @@
 ### Hi👋
 
- My name is Ahmed, and I am a Back-end web developer from Palestine with 3 years of experience in programming. The two major spheres of my interest and expertise are as follows:
+ My name is Ahmed, and I am a Back-end web developer from Palestine. The two major spheres of my interest and expertise are as follows:
 - Laravel+Angular JS web development
 - Preparing and dealing with servers
 
