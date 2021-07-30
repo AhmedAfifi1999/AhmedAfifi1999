@@ -1,7 +1,7 @@
 ### Hi👋
 
  My name is Ahmed, and I am a Back-end web developer from Palestine. The two major spheres of my interest and expertise are as follows:
-- Laravel+Angular JS web development
+- Laravel web development
 - Preparing and dealing with servers
 
 Listed below are my experience and skills:
