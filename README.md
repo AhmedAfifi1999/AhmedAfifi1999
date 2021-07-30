@@ -17,7 +17,6 @@ Listed below are my experience and skills:
 - Certificate for a website
 - Experience in cPanel, Virtual min, and WHM
 - Experience in dealing with MySQL and JSON
-- Fast learner
 - Git
 
 
