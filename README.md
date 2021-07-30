@@ -20,6 +20,9 @@ Listed below are my experience and skills:
 - Fast learner
 - Git
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=AhmedAfifi1999) 
+
 <!--
 **AhmedAfifi1999/AhmedAfifi1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
